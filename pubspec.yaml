@@ -1,0 +1,54 @@
+name: bruh
+description: App for VITians
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  google_fonts: ^6.1.0
+  webview_flutter: ^4.4.2
+  firebase_core: ^2.22.0
+  cloud_firestore: ^4.13.1
+  firebase_auth: ^4.14.0
+  get: ^4.6.6
+  google_nav_bar: ^5.0.6
+  intl: ^0.18.1
+  shared_preferences: ^2.2.2
+  random_string: ^2.3.1
+  loading_animation_widget: ^1.2.0+4
+  firebase_ui_localizations: ^1.9.0
+  firebase_ui_firestore: ^1.5.15
+  readmore: ^2.2.0
+  appwrite: ^11.0.1
+  provider: ^6.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: Mulish
+      fonts:
+        - asset: assets/fonts/Mulish-Light.ttf
+        - asset: assets/fonts/Mulish-SemiBold.ttf
+    
+    - family: Ahsing
+      fonts:
+        - asset: assets/fonts/Ahsing-Regular.otf

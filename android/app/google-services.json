@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656215989642",
+    "project_id": "bruh-78c00",
+    "storage_bucket": "bruh-78c00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656215989642:android:8461de18ebdbb0f9d13c73",
+        "android_client_info": {
+          "package_name": "com.example.bruh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh4XbnLQqLosGtswpUP9j0DyZfRZITSiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
